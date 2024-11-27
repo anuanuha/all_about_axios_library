@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/all_about_axios_library/static/css/main.3d83f548.css",
+    "main.js": "/all_about_axios_library/static/js/main.7ef10c27.js",
+    "index.html": "/all_about_axios_library/index.html",
+    "main.3d83f548.css.map": "/all_about_axios_library/static/css/main.3d83f548.css.map",
+    "main.7ef10c27.js.map": "/all_about_axios_library/static/js/main.7ef10c27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d83f548.css",
+    "static/js/main.7ef10c27.js"
+  ]
+}
